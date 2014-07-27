@@ -1,0 +1,191 @@
+/* table of contents */
+/* 1- Globals */
+body {
+	background: linear-gradient(to right, #00FF2A, #FF912F);
+}
+.spider {
+	position: relative;
+	width:400px;
+	height: 60px;
+
+}
+
+
+a:link {
+	text-decoration: none;
+	color:black;
+}
+p:hover{
+	text-decoration: underline;
+}
+
+
+
+h2:hover {
+	text-decoration: underline;
+}
+.america {
+	position: relative;
+	height:0px;
+	width:500px;
+	top:30px;
+}
+.usa {
+	position: relative;
+	bottom: 55px;
+	font-size: 18px;
+	font-family: Impact;
+	
+}
+
+
+.menu {
+	position: relative;
+	left:850px;
+	width:200px;
+	bottom: 40px;
+
+	
+}
+
+p {
+	display: inline-block;
+	font-family: Impact;
+	padding-right: 10px;
+	padding-left:10px;
+}
+
+.positioner {
+	position:relative;
+	width: 1057px;
+	height:55px;
+}
+
+.position {
+	position: relative;
+	height: 542px;
+	width: 1057px;
+}
+
+.linear-setup {
+	display:block;
+	text-align: center;
+	background: linear-gradient(to right, #FF912F, #00FF2A);
+	margin-right:100px; 
+	margin-left:100px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.space-helper {
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+
+.picture {
+	background-image: url("http://i58.photobucket.com/albums/g280/flyrtzy/backgrounds/805423fd.jpg") ;
+}
+
+h1 {
+	display: block;
+	text-align: left;
+	font-family: Impact;
+	color: white;
+	font-size: 35px;
+	margin-left: 15px; 
+}
+
+.chat{
+	position: relative;
+	bottom:5px;
+	height:350px;
+	width:500px;
+	border-radius: 5px;
+	background-color: white;
+	border:15px solid purple;
+	margin-bottom: 10px;
+	margin-left: 10px;
+
+}
+.label {
+	display: block;
+	border: 1px solid black;
+	width:275px;
+	height: 30px;
+	bottom: 375px;
+	border-radius: 3px;
+
+}
+
+h4 {
+	position: relative;
+	bottom: 15px;
+	left: 5px;
+	font-family: Courier;
+}
+
+h3 {
+	color:white;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 15px;
+}
+.order {
+	position: relative;
+	left:600px;
+	bottom: 475px;
+	width: 400px;
+}
+h2 {
+	color:white;
+	font-family: Verdana;
+	font-size: 19px;
+}
+span {
+	color:red;
+}
+
+.package {
+	position: relative;
+	border: 1px solid white;
+	border-radius: 10px;
+	width:350px;
+	left:625px;
+	bottom:475px;
+	margin-bottom: 10px;
+	background: rgba(160,160,160,.4);
+	
+    
+
+}
+h5 {
+	color:white;
+	font-size: 15px;
+}
+
+
+.bar {
+	position: relative;
+	text-align: center;
+	top:290px;
+	border-top: 2px solid purple;
+}
+.chat-info {
+	position: relative;
+	border: 1px solid white;
+	border-radius: 10px;
+	background: rgba(160,160,160,.4);
+	width:529px;
+	bottom: 515px;
+	height: 60px;
+	left: 10px;
+
+}
+
+.footer {
+	position: relative;
+	width: 300px;
+}
+
+
+
